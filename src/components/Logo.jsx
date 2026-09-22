@@ -15,7 +15,7 @@ export default function Logo({ light = false }) {
       <span
         className={`text-lg font-bold tracking-tight ${light ? "text-white" : "text-[#17372d]"}`}
       >
-        Arogya
+        Swasthya
         <span className={light ? "text-[#b9f0d4]" : "text-[#27966b]"}>Setu</span>
       </span>
     </Link>

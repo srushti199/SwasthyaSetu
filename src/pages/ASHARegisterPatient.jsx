@@ -51,7 +51,7 @@ export default function ASHARegisterPatient() {
       <PageHeader
         eyebrow='Patient Management'
         title='Register New Patient'
-        description='Register patients from your assigned area who do not have an ArogyaSetu account.'
+        description='Register patients from your assigned area who do not have an SwasthyaSetu account.'
       />
 
       {registered && (

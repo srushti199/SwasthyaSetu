@@ -129,8 +129,8 @@ function Landing() {
 
               {/* Description */}
               <p className='mt-4 max-w-[500px] text-[14px] leading-6 text-[#64766d] sm:text-[15px]'>
-                ArogyaSetu connects patients, healthcare workers, PHC doctors and hospitals to make
-                referrals, consultations and follow-ups simple and accessible.
+                SwasthyaSetu connects patients, healthcare workers, PHC doctors and hospitals to
+                make referrals, consultations and follow-ups simple and accessible.
               </p>
 
               {/* Buttons */}
@@ -355,7 +355,7 @@ function Landing() {
               </h2>
 
               <p className='mt-3 text-[13px] leading-5 text-[#718078] sm:text-[14px]'>
-                ArogyaSetu keeps patients connected with the right healthcare support even when
+                SwasthyaSetu keeps patients connected with the right healthcare support even when
                 distance, connectivity or language becomes a barrier.
               </p>
             </div>
@@ -410,7 +410,7 @@ function Landing() {
                 </h2>
 
                 <p className='mt-3 max-w-[500px] text-[13px] leading-5 text-[#718078] sm:text-[14px]'>
-                  ArogyaSetu helps reduce the gaps between rural patients, primary healthcare
+                  SwasthyaSetu helps reduce the gaps between rural patients, primary healthcare
                   centres and hospitals by keeping every important step connected.
                 </p>
 
@@ -533,7 +533,7 @@ function Landing() {
 
           {/* Bottom */}
           <div className='text-[11px] text-white/65 sm:text-[13px]'>
-            <p>© 2026 ArogyaSetu · Built by Team Visionary Vectors</p>
+            <p>© 2026 SwasthyaSetu· Built by Team Visionary Vectors</p>
           </div>
         </div>
       </footer>

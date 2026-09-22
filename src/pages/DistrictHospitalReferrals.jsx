@@ -328,7 +328,7 @@ function ReferralModal({ referral, onClose }) {
               <p className='text-sm font-semibold text-[#17372d]'>Automated referral workflow</p>
 
               <p className='mt-1 text-xs leading-5 text-[#62756c]'>
-                Referral processing is handled automatically by ArogyaSetu. The hospital team can
+                Referral processing is handled automatically by SwasthyaSetu. The hospital team can
                 review the referral and its current status here.
               </p>
             </div>
@@ -390,7 +390,7 @@ export default function DistrictHospitalReferrals() {
       <PageHeader
         eyebrow='Hospital Coordination'
         title='Referrals'
-        description='View and monitor all patient referrals received from PHCs through the ArogyaSetu system.'
+        description='View and monitor all patient referrals received from PHCs through the SwasthyaSetu system.'
       />
 
       {/* Summary */}
